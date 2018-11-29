@@ -14,7 +14,7 @@ In these cases using small, cheap devices at the edge (where the data is generat
 
 The problem with running models on the edge is that we are limited by the amount of computation power that we have. There are many ways to overcome this. You could use a hardware accelerator like a Neural Computer Stick. Or you could use some models that are built specifically to not be computationally expensive and run on the edge.
 
-In this project we use the UP Board Embedded Vision Kit to run inference on the edge. We use the mobilenet model which is computationally less expensive.
+In this project we use the UP Embedded Vision Kit to run inference on the edge. We use the mobilenet model which is computationally less expensive.
 
 ## Project Structure
 
